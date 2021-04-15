@@ -1,0 +1,13 @@
+courseIdToClone,courseIdToUpdate,sessionName,sessionStatus,sessionSku,seatsLimit,assignTo,priceInCents,accessStartDate,accessEndDate,enrollmentStartDate,enrollmentEndDate,meeting.idToUpdate.1,meeting.idToDelete.1,meeting.title.1,meeting.instructor.1,meeting.locationId.1,meeting.attendeeInfo.1,meeting.startDate.1,meeting.endDate.1
+,46b97277-e496-4a25-8551-4347c25feebb,US - 06 JUL 2021 VILT - CCES,Published,US-060721-V-CCES,11,,200000,,,2021-04-09T00:00:00Z,2021-07-06T23:59:00Z,d512782a-8de4-49be-b298-05e47ff7285c,,US - 06 JUL 2021 VILT - CCES,,ad917538-ef05-44b2-a44e-429ead09fba6,"<p class=""hiddensessionfields"">
+1:,
+2:Partner Deliver Layer 8,
+3:,
+4:,
+5:11132,
+6:NA,
+7:VILT,
+8:TrainingAdminUS@IngramMicro.com,
+9:16,
+10:-5,
+</p><p class=""visiblesessionfields"">You will receive your class details prior to class.</p>""",2021-07-06T15:00:00Z,2021-07-07T23:00:00Z
